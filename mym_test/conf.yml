@@ -1,0 +1,30 @@
+homepage: http://55.149.1.83
+
+user:
+  user: admin
+  password: Admin@123
+
+cluster:
+  nodepool: n1
+  all_disk_num: 8
+  manage_network: 55.149.1.0/20
+  storage_network1: 197.16.102.0/24
+  storage_network2: 198.16.102.0/24
+  customer_name: customer01
+  cluster_name: cluster01
+  host_ips: ["55.149.1.83","55.149.1.85","55.149.1.86"]
+  storage_ips1: ["197.16.102.151","197.16.102.153","197.16.102.154"]
+  storage_ips2: ["198.16.102.151","198.16.102.153","198.16.102.154"]
+  user: root
+  passwd: Admin@123stor
+  host_names: ["node83","node85","node86"]
+  cpu_nums: [2,2,2]
+  data_disk: ['nvme0n1','nvme1n1','nvme2n1','nvme3n1']
+  tgt_script_path: /opt/h3c/script/tgt
+  nvmeof_client_ips: ["55.149.1.83"]
+
+handyha:
+  vip: 55.149.1.234
+
+log:
+  level: INFO

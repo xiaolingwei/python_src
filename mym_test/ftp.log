@@ -1,0 +1,461 @@
+2023-03-01 02:13:50,858 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:23] - INFO: version list : ['202302222315', '202302232317', '202302262312', '202302272313']
+2023-03-01 02:13:50,858 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:25] - INFO: version num list : [202302222315, 202302232317, 202302262312, 202302272313]
+2023-03-01 02:13:50,858 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:27] - INFO: new version : 202302272313
+2023-03-01 02:13:50,858 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:33] - INFO: local version list : ['202302212315', '202302222315', '202302272313']
+2023-03-01 02:13:50,858 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:35] - INFO: local version num list : [202302212315, 202302222315, 202302272313]
+2023-03-01 02:13:50,858 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:37] - INFO: local new version: 202302272313
+2023-03-01 03:13:51,165 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:23] - INFO: version list : ['202302222315', '202302232317', '202302262312', '202302272313']
+2023-03-01 03:13:51,165 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:25] - INFO: version num list : [202302222315, 202302232317, 202302262312, 202302272313]
+2023-03-01 03:13:51,165 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:27] - INFO: new version : 202302272313
+2023-03-01 03:13:51,165 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:33] - INFO: local version list : ['202302212315', '202302222315', '202302272313']
+2023-03-01 03:13:51,165 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:35] - INFO: local version num list : [202302212315, 202302222315, 202302272313]
+2023-03-01 03:13:51,165 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:37] - INFO: local new version: 202302272313
+2023-03-01 04:13:51,452 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:23] - INFO: version list : ['202302222315', '202302232317', '202302262312', '202302272313']
+2023-03-01 04:13:51,452 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:25] - INFO: version num list : [202302222315, 202302232317, 202302262312, 202302272313]
+2023-03-01 04:13:51,452 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:27] - INFO: new version : 202302272313
+2023-03-01 04:13:51,452 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:33] - INFO: local version list : ['202302212315', '202302222315', '202302272313']
+2023-03-01 04:13:51,452 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:35] - INFO: local version num list : [202302212315, 202302222315, 202302272313]
+2023-03-01 04:13:51,452 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:37] - INFO: local new version: 202302272313
+2023-03-01 05:13:51,719 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:23] - INFO: version list : ['202302222315', '202302232317', '202302262312', '202302272313']
+2023-03-01 05:13:51,719 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:25] - INFO: version num list : [202302222315, 202302232317, 202302262312, 202302272313]
+2023-03-01 05:13:51,719 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:27] - INFO: new version : 202302272313
+2023-03-01 05:13:51,719 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:33] - INFO: local version list : ['202302212315', '202302222315', '202302272313']
+2023-03-01 05:13:51,719 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:35] - INFO: local version num list : [202302212315, 202302222315, 202302272313]
+2023-03-01 05:13:51,735 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:37] - INFO: local new version: 202302272313
+2023-03-01 06:13:51,989 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:23] - INFO: version list : ['202302222315', '202302232317', '202302262312', '202302272313']
+2023-03-01 06:13:51,989 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:25] - INFO: version num list : [202302222315, 202302232317, 202302262312, 202302272313]
+2023-03-01 06:13:51,989 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:27] - INFO: new version : 202302272313
+2023-03-01 06:13:51,989 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:33] - INFO: local version list : ['202302212315', '202302222315', '202302272313']
+2023-03-01 06:13:51,989 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:35] - INFO: local version num list : [202302212315, 202302222315, 202302272313]
+2023-03-01 06:13:51,989 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:37] - INFO: local new version: 202302272313
+2023-03-01 07:13:52,261 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:23] - INFO: version list : ['202302222315', '202302232317', '202302262312', '202302272313']
+2023-03-01 07:13:52,261 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:25] - INFO: version num list : [202302222315, 202302232317, 202302262312, 202302272313]
+2023-03-01 07:13:52,261 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:27] - INFO: new version : 202302272313
+2023-03-01 07:13:52,261 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:33] - INFO: local version list : ['202302212315', '202302222315', '202302272313']
+2023-03-01 07:13:52,261 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:35] - INFO: local version num list : [202302212315, 202302222315, 202302272313]
+2023-03-01 07:13:52,261 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:37] - INFO: local new version: 202302272313
+2023-03-01 08:13:52,556 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:23] - INFO: version list : ['202302222315', '202302232317', '202302262312', '202302272313']
+2023-03-01 08:13:52,556 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:25] - INFO: version num list : [202302222315, 202302232317, 202302262312, 202302272313]
+2023-03-01 08:13:52,556 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:27] - INFO: new version : 202302272313
+2023-03-01 08:13:52,556 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:33] - INFO: local version list : ['202302212315', '202302222315', '202302272313']
+2023-03-01 08:13:52,556 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:35] - INFO: local version num list : [202302212315, 202302222315, 202302272313]
+2023-03-01 08:13:52,556 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:37] - INFO: local new version: 202302272313
+2023-03-01 09:13:52,852 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:23] - INFO: version list : ['202302222315', '202302232317', '202302262312', '202302272313', '202302282315']
+2023-03-01 09:13:52,852 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:25] - INFO: version num list : [202302222315, 202302232317, 202302262312, 202302272313, 202302282315]
+2023-03-01 09:13:52,852 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:27] - INFO: new version : 202302282315
+2023-03-01 09:13:52,852 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:33] - INFO: local version list : ['202302212315', '202302222315', '202302272313']
+2023-03-01 09:13:52,852 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:35] - INFO: local version num list : [202302212315, 202302222315, 202302272313]
+2023-03-01 09:13:52,852 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:37] - INFO: local new version: 202302272313
+2023-03-01 09:13:52,884 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:43] - INFO: local path : D:\version\202302282315
+2023-03-01 10:26:53,018 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:23] - INFO: version list : ['202302222315', '202302232317', '202302262312', '202302272313', '202302282315']
+2023-03-01 10:26:53,018 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:25] - INFO: version num list : [202302222315, 202302232317, 202302262312, 202302272313, 202302282315]
+2023-03-01 10:26:53,018 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:27] - INFO: new version : 202302282315
+2023-03-01 10:26:53,018 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:33] - INFO: local version list : ['202302212315', '202302222315', '202302272313', '202302282315']
+2023-03-01 10:26:53,018 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:35] - INFO: local version num list : [202302212315, 202302222315, 202302272313, 202302282315]
+2023-03-01 10:26:53,018 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:37] - INFO: local new version: 202302282315
+2023-03-01 11:26:53,705 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:23] - INFO: version list : ['202302222315', '202302232317', '202302262312', '202302272313', '202302282315']
+2023-03-01 11:26:53,705 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:25] - INFO: version num list : [202302222315, 202302232317, 202302262312, 202302272313, 202302282315]
+2023-03-01 11:26:53,705 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:27] - INFO: new version : 202302282315
+2023-03-01 11:26:53,705 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:33] - INFO: local version list : ['202302212315', '202302222315', '202302272313', '202302282315']
+2023-03-01 11:26:53,705 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:35] - INFO: local version num list : [202302212315, 202302222315, 202302272313, 202302282315]
+2023-03-01 11:26:53,705 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:37] - INFO: local new version: 202302282315
+2023-03-01 12:26:54,047 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:23] - INFO: version list : ['202302222315', '202302232317', '202302262312', '202302272313', '202302282315']
+2023-03-01 12:26:54,047 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:25] - INFO: version num list : [202302222315, 202302232317, 202302262312, 202302272313, 202302282315]
+2023-03-01 12:26:54,047 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:27] - INFO: new version : 202302282315
+2023-03-01 12:26:54,047 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:33] - INFO: local version list : ['202302212315', '202302222315', '202302272313', '202302282315']
+2023-03-01 12:26:54,047 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:35] - INFO: local version num list : [202302212315, 202302222315, 202302272313, 202302282315]
+2023-03-01 12:26:54,047 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:37] - INFO: local new version: 202302282315
+2023-03-01 13:26:54,387 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:23] - INFO: version list : ['202302222315', '202302232317', '202302262312', '202302272313', '202302282315']
+2023-03-01 13:26:54,387 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:25] - INFO: version num list : [202302222315, 202302232317, 202302262312, 202302272313, 202302282315]
+2023-03-01 13:26:54,387 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:27] - INFO: new version : 202302282315
+2023-03-01 13:26:54,388 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:33] - INFO: local version list : ['202302212315', '202302222315', '202302272313', '202302282315']
+2023-03-01 13:26:54,388 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:35] - INFO: local version num list : [202302212315, 202302222315, 202302272313, 202302282315]
+2023-03-01 13:26:54,388 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:37] - INFO: local new version: 202302282315
+2023-03-01 14:26:54,781 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:23] - INFO: version list : ['202302222315', '202302232317', '202302262312', '202302272313', '202302282315']
+2023-03-01 14:26:54,781 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:25] - INFO: version num list : [202302222315, 202302232317, 202302262312, 202302272313, 202302282315]
+2023-03-01 14:26:54,781 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:27] - INFO: new version : 202302282315
+2023-03-01 14:26:54,781 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:33] - INFO: local version list : ['202302212315', '202302222315', '202302272313', '202302282315']
+2023-03-01 14:26:54,781 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:35] - INFO: local version num list : [202302212315, 202302222315, 202302272313, 202302282315]
+2023-03-01 14:26:54,781 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:37] - INFO: local new version: 202302282315
+2023-03-01 15:26:55,502 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:23] - INFO: version list : ['202302222315', '202302232317', '202302262312', '202302272313', '202302282315', '202303011429']
+2023-03-01 15:26:55,502 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:25] - INFO: version num list : [202302222315, 202302232317, 202302262312, 202302272313, 202302282315, 202303011429]
+2023-03-01 15:26:55,502 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:27] - INFO: new version : 202303011429
+2023-03-01 15:26:55,502 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:33] - INFO: local version list : ['202302212315', '202302222315', '202302272313', '202302282315']
+2023-03-01 15:26:55,502 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:35] - INFO: local version num list : [202302212315, 202302222315, 202302272313, 202302282315]
+2023-03-01 15:26:55,502 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:37] - INFO: local new version: 202302282315
+2023-03-01 15:26:55,502 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:43] - INFO: local path : D:\version\202303011429
+2023-03-01 16:57:42,397 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:23] - INFO: version list : ['202302222315', '202302232317', '202302262312', '202302272313', '202302282315', '202303011429']
+2023-03-01 16:57:42,397 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:25] - INFO: version num list : [202302222315, 202302232317, 202302262312, 202302272313, 202302282315, 202303011429]
+2023-03-01 16:57:42,397 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:27] - INFO: new version : 202303011429
+2023-03-01 16:57:42,397 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:33] - INFO: local version list : ['202302212315', '202302222315', '202302272313', '202302282315', '202303011429']
+2023-03-01 16:57:42,397 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:35] - INFO: local version num list : [202302212315, 202302222315, 202302272313, 202302282315, 202303011429]
+2023-03-01 16:57:42,397 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:37] - INFO: local new version: 202303011429
+2023-03-01 17:57:42,667 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:23] - INFO: version list : ['202302222315', '202302232317', '202302262312', '202302272313', '202302282315', '202303011429']
+2023-03-01 17:57:42,667 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:25] - INFO: version num list : [202302222315, 202302232317, 202302262312, 202302272313, 202302282315, 202303011429]
+2023-03-01 17:57:42,667 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:27] - INFO: new version : 202303011429
+2023-03-01 17:57:42,667 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:33] - INFO: local version list : ['202302212315', '202302222315', '202302272313', '202302282315', '202303011429']
+2023-03-01 17:57:42,667 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:35] - INFO: local version num list : [202302212315, 202302222315, 202302272313, 202302282315, 202303011429]
+2023-03-01 17:57:42,668 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:37] - INFO: local new version: 202303011429
+2023-03-01 18:57:42,974 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:23] - INFO: version list : ['202302222315', '202302232317', '202302262312', '202302272313', '202302282315', '202303011429']
+2023-03-01 18:57:42,974 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:25] - INFO: version num list : [202302222315, 202302232317, 202302262312, 202302272313, 202302282315, 202303011429]
+2023-03-01 18:57:42,974 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:27] - INFO: new version : 202303011429
+2023-03-01 18:57:42,974 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:33] - INFO: local version list : ['202302212315', '202302222315', '202302272313', '202302282315', '202303011429']
+2023-03-01 18:57:42,974 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:35] - INFO: local version num list : [202302212315, 202302222315, 202302272313, 202302282315, 202303011429]
+2023-03-01 18:57:42,974 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:37] - INFO: local new version: 202303011429
+2023-03-01 19:57:43,244 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:23] - INFO: version list : ['202302222315', '202302232317', '202302262312', '202302272313', '202302282315', '202303011429']
+2023-03-01 19:57:43,244 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:25] - INFO: version num list : [202302222315, 202302232317, 202302262312, 202302272313, 202302282315, 202303011429]
+2023-03-01 19:57:43,244 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:27] - INFO: new version : 202303011429
+2023-03-01 19:57:43,244 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:33] - INFO: local version list : ['202302212315', '202302222315', '202302272313', '202302282315', '202303011429']
+2023-03-01 19:57:43,244 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:35] - INFO: local version num list : [202302212315, 202302222315, 202302272313, 202302282315, 202303011429]
+2023-03-01 19:57:43,244 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:37] - INFO: local new version: 202303011429
+2023-03-01 20:57:43,524 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:23] - INFO: version list : ['202302222315', '202302232317', '202302262312', '202302272313', '202302282315', '202303011429']
+2023-03-01 20:57:43,524 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:25] - INFO: version num list : [202302222315, 202302232317, 202302262312, 202302272313, 202302282315, 202303011429]
+2023-03-01 20:57:43,524 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:27] - INFO: new version : 202303011429
+2023-03-01 20:57:43,524 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:33] - INFO: local version list : ['202302212315', '202302222315', '202302272313', '202302282315', '202303011429']
+2023-03-01 20:57:43,524 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:35] - INFO: local version num list : [202302212315, 202302222315, 202302272313, 202302282315, 202303011429]
+2023-03-01 20:57:43,524 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:37] - INFO: local new version: 202303011429
+2023-03-01 21:57:43,847 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:23] - INFO: version list : ['202302222315', '202302232317', '202302262312', '202302272313', '202302282315', '202303011429']
+2023-03-01 21:57:43,847 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:25] - INFO: version num list : [202302222315, 202302232317, 202302262312, 202302272313, 202302282315, 202303011429]
+2023-03-01 21:57:43,847 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:27] - INFO: new version : 202303011429
+2023-03-01 21:57:43,847 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:33] - INFO: local version list : ['202302212315', '202302222315', '202302272313', '202302282315', '202303011429']
+2023-03-01 21:57:43,847 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:35] - INFO: local version num list : [202302212315, 202302222315, 202302272313, 202302282315, 202303011429]
+2023-03-01 21:57:43,847 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:37] - INFO: local new version: 202303011429
+2023-03-01 22:57:44,146 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:23] - INFO: version list : ['202302222315', '202302232317', '202302262312', '202302272313', '202302282315', '202303011429']
+2023-03-01 22:57:44,146 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:25] - INFO: version num list : [202302222315, 202302232317, 202302262312, 202302272313, 202302282315, 202303011429]
+2023-03-01 22:57:44,146 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:27] - INFO: new version : 202303011429
+2023-03-01 22:57:44,146 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:33] - INFO: local version list : ['202302212315', '202302222315', '202302272313', '202302282315', '202303011429']
+2023-03-01 22:57:44,146 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:35] - INFO: local version num list : [202302212315, 202302222315, 202302272313, 202302282315, 202303011429]
+2023-03-01 22:57:44,146 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:37] - INFO: local new version: 202303011429
+2023-03-01 23:57:44,428 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:23] - INFO: version list : ['202302222315', '202302232317', '202302262312', '202302272313', '202302282315', '202303011429']
+2023-03-01 23:57:44,443 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:25] - INFO: version num list : [202302222315, 202302232317, 202302262312, 202302272313, 202302282315, 202303011429]
+2023-03-01 23:57:44,443 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:27] - INFO: new version : 202303011429
+2023-03-01 23:57:44,443 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:33] - INFO: local version list : ['202302212315', '202302222315', '202302272313', '202302282315', '202303011429']
+2023-03-01 23:57:44,443 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:35] - INFO: local version num list : [202302212315, 202302222315, 202302272313, 202302282315, 202303011429]
+2023-03-01 23:57:44,443 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:37] - INFO: local new version: 202303011429
+2023-03-02 00:57:44,702 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:23] - INFO: version list : ['202302222315', '202302232317', '202302262312', '202302272313', '202302282315', '202303011429']
+2023-03-02 00:57:44,717 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:25] - INFO: version num list : [202302222315, 202302232317, 202302262312, 202302272313, 202302282315, 202303011429]
+2023-03-02 00:57:44,717 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:27] - INFO: new version : 202303011429
+2023-03-02 00:57:44,717 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:33] - INFO: local version list : ['202302212315', '202302222315', '202302272313', '202302282315', '202303011429']
+2023-03-02 00:57:44,717 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:35] - INFO: local version num list : [202302212315, 202302222315, 202302272313, 202302282315, 202303011429]
+2023-03-02 00:57:44,717 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:37] - INFO: local new version: 202303011429
+2023-03-02 01:57:44,970 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:23] - INFO: version list : ['202302222315', '202302232317', '202302262312', '202302272313', '202302282315', '202303011429']
+2023-03-02 01:57:44,985 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:25] - INFO: version num list : [202302222315, 202302232317, 202302262312, 202302272313, 202302282315, 202303011429]
+2023-03-02 01:57:44,985 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:27] - INFO: new version : 202303011429
+2023-03-02 01:57:44,985 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:33] - INFO: local version list : ['202302212315', '202302222315', '202302272313', '202302282315', '202303011429']
+2023-03-02 01:57:44,985 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:35] - INFO: local version num list : [202302212315, 202302222315, 202302272313, 202302282315, 202303011429]
+2023-03-02 01:57:44,985 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:37] - INFO: local new version: 202303011429
+2023-03-02 02:57:45,280 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:23] - INFO: version list : ['202302222315', '202302232317', '202302262312', '202302272313', '202302282315', '202303011429']
+2023-03-02 02:57:45,280 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:25] - INFO: version num list : [202302222315, 202302232317, 202302262312, 202302272313, 202302282315, 202303011429]
+2023-03-02 02:57:45,280 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:27] - INFO: new version : 202303011429
+2023-03-02 02:57:45,280 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:33] - INFO: local version list : ['202302212315', '202302222315', '202302272313', '202302282315', '202303011429']
+2023-03-02 02:57:45,280 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:35] - INFO: local version num list : [202302212315, 202302222315, 202302272313, 202302282315, 202303011429]
+2023-03-02 02:57:45,280 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:37] - INFO: local new version: 202303011429
+2023-03-02 03:57:45,555 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:23] - INFO: version list : ['202302222315', '202302232317', '202302262312', '202302272313', '202302282315', '202303011429']
+2023-03-02 03:57:45,555 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:25] - INFO: version num list : [202302222315, 202302232317, 202302262312, 202302272313, 202302282315, 202303011429]
+2023-03-02 03:57:45,555 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:27] - INFO: new version : 202303011429
+2023-03-02 03:57:45,555 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:33] - INFO: local version list : ['202302212315', '202302222315', '202302272313', '202302282315', '202303011429']
+2023-03-02 03:57:45,555 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:35] - INFO: local version num list : [202302212315, 202302222315, 202302272313, 202302282315, 202303011429]
+2023-03-02 03:57:45,555 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:37] - INFO: local new version: 202303011429
+2023-03-02 04:57:45,799 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:23] - INFO: version list : ['202302222315', '202302232317', '202302262312', '202302272313', '202302282315', '202303011429']
+2023-03-02 04:57:45,799 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:25] - INFO: version num list : [202302222315, 202302232317, 202302262312, 202302272313, 202302282315, 202303011429]
+2023-03-02 04:57:45,799 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:27] - INFO: new version : 202303011429
+2023-03-02 04:57:45,799 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:33] - INFO: local version list : ['202302212315', '202302222315', '202302272313', '202302282315', '202303011429']
+2023-03-02 04:57:45,799 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:35] - INFO: local version num list : [202302212315, 202302222315, 202302272313, 202302282315, 202303011429]
+2023-03-02 04:57:45,799 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:37] - INFO: local new version: 202303011429
+2023-03-02 05:57:46,088 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:23] - INFO: version list : ['202302222315', '202302232317', '202302262312', '202302272313', '202302282315', '202303011429']
+2023-03-02 05:57:46,088 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:25] - INFO: version num list : [202302222315, 202302232317, 202302262312, 202302272313, 202302282315, 202303011429]
+2023-03-02 05:57:46,088 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:27] - INFO: new version : 202303011429
+2023-03-02 05:57:46,088 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:33] - INFO: local version list : ['202302212315', '202302222315', '202302272313', '202302282315', '202303011429']
+2023-03-02 05:57:46,088 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:35] - INFO: local version num list : [202302212315, 202302222315, 202302272313, 202302282315, 202303011429]
+2023-03-02 05:57:46,088 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:37] - INFO: local new version: 202303011429
+2023-03-02 06:57:46,415 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:23] - INFO: version list : ['202302222315', '202302232317', '202302262312', '202302272313', '202302282315', '202303011429']
+2023-03-02 06:57:46,415 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:25] - INFO: version num list : [202302222315, 202302232317, 202302262312, 202302272313, 202302282315, 202303011429]
+2023-03-02 06:57:46,415 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:27] - INFO: new version : 202303011429
+2023-03-02 06:57:46,431 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:33] - INFO: local version list : ['202302212315', '202302222315', '202302272313', '202302282315', '202303011429']
+2023-03-02 06:57:46,431 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:35] - INFO: local version num list : [202302212315, 202302222315, 202302272313, 202302282315, 202303011429]
+2023-03-02 06:57:46,431 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:37] - INFO: local new version: 202303011429
+2023-03-02 07:57:46,742 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:23] - INFO: version list : ['202302222315', '202302232317', '202302262312', '202302272313', '202302282315', '202303011429']
+2023-03-02 07:57:46,742 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:25] - INFO: version num list : [202302222315, 202302232317, 202302262312, 202302272313, 202302282315, 202303011429]
+2023-03-02 07:57:46,742 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:27] - INFO: new version : 202303011429
+2023-03-02 07:57:46,742 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:33] - INFO: local version list : ['202302212315', '202302222315', '202302272313', '202302282315', '202303011429']
+2023-03-02 07:57:46,742 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:35] - INFO: local version num list : [202302212315, 202302222315, 202302272313, 202302282315, 202303011429]
+2023-03-02 07:57:46,742 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:37] - INFO: local new version: 202303011429
+2023-03-02 08:57:47,035 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:23] - INFO: version list : ['202302222315', '202302232317', '202302262312', '202302272313', '202302282315', '202303011429']
+2023-03-02 08:57:47,035 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:25] - INFO: version num list : [202302222315, 202302232317, 202302262312, 202302272313, 202302282315, 202303011429]
+2023-03-02 08:57:47,035 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:27] - INFO: new version : 202303011429
+2023-03-02 08:57:47,035 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:33] - INFO: local version list : ['202302212315', '202302222315', '202302272313', '202302282315', '202303011429']
+2023-03-02 08:57:47,035 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:35] - INFO: local version num list : [202302212315, 202302222315, 202302272313, 202302282315, 202303011429]
+2023-03-02 08:57:47,035 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:37] - INFO: local new version: 202303011429
+2023-03-02 09:57:47,749 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:23] - INFO: version list : ['202302222315', '202302232317', '202302262312', '202302272313', '202302282315', '202303011429', '202303012316']
+2023-03-02 09:57:47,749 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:25] - INFO: version num list : [202302222315, 202302232317, 202302262312, 202302272313, 202302282315, 202303011429, 202303012316]
+2023-03-02 09:57:47,749 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:27] - INFO: new version : 202303012316
+2023-03-02 09:57:47,749 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:33] - INFO: local version list : ['202302212315', '202302222315', '202302272313', '202302282315', '202303011429']
+2023-03-02 09:57:47,749 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:35] - INFO: local version num list : [202302212315, 202302222315, 202302272313, 202302282315, 202303011429]
+2023-03-02 09:57:47,749 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:37] - INFO: local new version: 202303011429
+2023-03-02 09:57:47,796 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:43] - INFO: local path : D:\version\202303012316
+2023-03-02 10:57:49,833 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:23] - INFO: version list : ['202302222315', '202302232317', '202302262312', '202302272313', '202302282315', '202303011429', '202303012316']
+2023-03-02 10:57:49,833 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:25] - INFO: version num list : [202302222315, 202302232317, 202302262312, 202302272313, 202302282315, 202303011429, 202303012316]
+2023-03-02 10:57:49,833 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:27] - INFO: new version : 202303012316
+2023-03-02 10:57:49,848 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:33] - INFO: local version list : ['202302212315', '202302222315', '202302272313', '202302282315', '202303011429', '202303012316']
+2023-03-02 10:57:49,848 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:35] - INFO: local version num list : [202302212315, 202302222315, 202302272313, 202302282315, 202303011429, 202303012316]
+2023-03-02 10:57:49,848 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:37] - INFO: local new version: 202303012316
+2023-03-02 11:57:50,161 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:23] - INFO: version list : ['202302222315', '202302232317', '202302262312', '202302272313', '202302282315', '202303011429', '202303012316']
+2023-03-02 11:57:50,161 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:25] - INFO: version num list : [202302222315, 202302232317, 202302262312, 202302272313, 202302282315, 202303011429, 202303012316]
+2023-03-02 11:57:50,161 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:27] - INFO: new version : 202303012316
+2023-03-02 11:57:50,161 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:33] - INFO: local version list : ['202302212315', '202302222315', '202302272313', '202302282315', '202303011429', '202303012316']
+2023-03-02 11:57:50,161 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:35] - INFO: local version num list : [202302212315, 202302222315, 202302272313, 202302282315, 202303011429, 202303012316]
+2023-03-02 11:57:50,161 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:37] - INFO: local new version: 202303012316
+2023-03-02 12:57:50,470 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:23] - INFO: version list : ['202302222315', '202302232317', '202302262312', '202302272313', '202302282315', '202303011429', '202303012316']
+2023-03-02 12:57:50,470 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:25] - INFO: version num list : [202302222315, 202302232317, 202302262312, 202302272313, 202302282315, 202303011429, 202303012316]
+2023-03-02 12:57:50,470 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:27] - INFO: new version : 202303012316
+2023-03-02 12:57:50,470 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:33] - INFO: local version list : ['202302212315', '202302222315', '202302272313', '202302282315', '202303011429']
+2023-03-02 12:57:50,470 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:35] - INFO: local version num list : [202302212315, 202302222315, 202302272313, 202302282315, 202303011429]
+2023-03-02 12:57:50,470 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:37] - INFO: local new version: 202303011429
+2023-03-02 12:57:50,486 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:43] - INFO: local path : D:\version\202303012316
+2023-03-02 14:13:20,312 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:23] - INFO: version list : ['202302222315', '202302232317', '202302262312', '202302272313', '202302282315', '202303011429', '202303012316']
+2023-03-02 14:13:20,312 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:25] - INFO: version num list : [202302222315, 202302232317, 202302262312, 202302272313, 202302282315, 202303011429, 202303012316]
+2023-03-02 14:13:20,312 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:27] - INFO: new version : 202303012316
+2023-03-02 14:13:20,312 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:33] - INFO: local version list : ['202302212315', '202302222315', '202302272313', '202302282315', '202303011429', '202303012316']
+2023-03-02 14:13:20,312 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:35] - INFO: local version num list : [202302212315, 202302222315, 202302272313, 202302282315, 202303011429, 202303012316]
+2023-03-02 14:13:20,312 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:37] - INFO: local new version: 202303012316
+2023-03-02 15:13:20,639 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:23] - INFO: version list : ['202302222315', '202302232317', '202302262312', '202302272313', '202302282315', '202303011429', '202303012316']
+2023-03-02 15:13:20,639 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:25] - INFO: version num list : [202302222315, 202302232317, 202302262312, 202302272313, 202302282315, 202303011429, 202303012316]
+2023-03-02 15:13:20,639 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:27] - INFO: new version : 202303012316
+2023-03-02 15:13:20,639 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:33] - INFO: local version list : ['202302212315', '202302222315', '202302272313', '202302282315', '202303011429', '202303012316']
+2023-03-02 15:13:20,639 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:35] - INFO: local version num list : [202302212315, 202302222315, 202302272313, 202302282315, 202303011429, 202303012316]
+2023-03-02 15:13:20,639 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:37] - INFO: local new version: 202303012316
+2023-03-02 16:13:21,250 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:23] - INFO: version list : ['202302222315', '202302232317', '202302262312', '202302272313', '202302282315', '202303011429', '202303012316']
+2023-03-02 16:13:21,250 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:25] - INFO: version num list : [202302222315, 202302232317, 202302262312, 202302272313, 202302282315, 202303011429, 202303012316]
+2023-03-02 16:13:21,250 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:27] - INFO: new version : 202303012316
+2023-03-02 16:13:21,250 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:33] - INFO: local version list : ['202302212315', '202302222315', '202302272313', '202302282315', '202303011429', '202303012316']
+2023-03-02 16:13:21,250 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:35] - INFO: local version num list : [202302212315, 202302222315, 202302272313, 202302282315, 202303011429, 202303012316]
+2023-03-02 16:13:21,250 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:37] - INFO: local new version: 202303012316
+2023-03-02 17:13:21,793 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:23] - INFO: version list : ['202302222315', '202302232317', '202302262312', '202302272313', '202302282315', '202303011429', '202303012316']
+2023-03-02 17:13:21,793 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:25] - INFO: version num list : [202302222315, 202302232317, 202302262312, 202302272313, 202302282315, 202303011429, 202303012316]
+2023-03-02 17:13:21,793 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:27] - INFO: new version : 202303012316
+2023-03-02 17:13:21,793 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:33] - INFO: local version list : ['202302212315', '202302222315', '202302272313', '202302282315', '202303011429', '202303012316']
+2023-03-02 17:13:21,793 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:35] - INFO: local version num list : [202302212315, 202302222315, 202302272313, 202302282315, 202303011429, 202303012316]
+2023-03-02 17:13:21,793 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:37] - INFO: local new version: 202303012316
+2023-03-02 18:13:22,120 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:23] - INFO: version list : ['202302222315', '202302232317', '202302262312', '202302272313', '202302282315', '202303011429', '202303012316']
+2023-03-02 18:13:22,120 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:25] - INFO: version num list : [202302222315, 202302232317, 202302262312, 202302272313, 202302282315, 202303011429, 202303012316]
+2023-03-02 18:13:22,120 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:27] - INFO: new version : 202303012316
+2023-03-02 18:13:22,120 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:33] - INFO: local version list : ['202302212315', '202302222315', '202302272313', '202302282315', '202303011429', '202303012316']
+2023-03-02 18:13:22,120 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:35] - INFO: local version num list : [202302212315, 202302222315, 202302272313, 202302282315, 202303011429, 202303012316]
+2023-03-02 18:13:22,120 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:37] - INFO: local new version: 202303012316
+2023-03-02 19:13:22,407 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:23] - INFO: version list : ['202302222315', '202302232317', '202302262312', '202302272313', '202302282315', '202303011429', '202303012316']
+2023-03-02 19:13:22,407 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:25] - INFO: version num list : [202302222315, 202302232317, 202302262312, 202302272313, 202302282315, 202303011429, 202303012316]
+2023-03-02 19:13:22,407 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:27] - INFO: new version : 202303012316
+2023-03-02 19:13:22,407 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:33] - INFO: local version list : ['202302212315', '202302222315', '202302272313', '202302282315', '202303011429', '202303012316']
+2023-03-02 19:13:22,407 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:35] - INFO: local version num list : [202302212315, 202302222315, 202302272313, 202302282315, 202303011429, 202303012316]
+2023-03-02 19:13:22,407 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:37] - INFO: local new version: 202303012316
+2023-03-02 20:13:22,720 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:23] - INFO: version list : ['202302222315', '202302232317', '202302262312', '202302272313', '202302282315', '202303011429', '202303012316']
+2023-03-02 20:13:22,720 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:25] - INFO: version num list : [202302222315, 202302232317, 202302262312, 202302272313, 202302282315, 202303011429, 202303012316]
+2023-03-02 20:13:22,720 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:27] - INFO: new version : 202303012316
+2023-03-02 20:13:22,720 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:33] - INFO: local version list : ['202302212315', '202302222315', '202302272313', '202302282315', '202303011429', '202303012316']
+2023-03-02 20:13:22,720 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:35] - INFO: local version num list : [202302212315, 202302222315, 202302272313, 202302282315, 202303011429, 202303012316]
+2023-03-02 20:13:22,720 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:37] - INFO: local new version: 202303012316
+2023-03-02 21:13:23,093 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:23] - INFO: version list : ['202302222315', '202302232317', '202302262312', '202302272313', '202302282315', '202303011429', '202303012316']
+2023-03-02 21:13:23,093 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:25] - INFO: version num list : [202302222315, 202302232317, 202302262312, 202302272313, 202302282315, 202303011429, 202303012316]
+2023-03-02 21:13:23,093 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:27] - INFO: new version : 202303012316
+2023-03-02 21:13:23,093 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:33] - INFO: local version list : ['202302212315', '202302222315', '202302272313', '202302282315', '202303011429', '202303012316']
+2023-03-02 21:13:23,093 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:35] - INFO: local version num list : [202302212315, 202302222315, 202302272313, 202302282315, 202303011429, 202303012316]
+2023-03-02 21:13:23,093 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:37] - INFO: local new version: 202303012316
+2023-03-02 22:13:23,383 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:23] - INFO: version list : ['202302222315', '202302232317', '202302262312', '202302272313', '202302282315', '202303011429', '202303012316']
+2023-03-02 22:13:23,383 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:25] - INFO: version num list : [202302222315, 202302232317, 202302262312, 202302272313, 202302282315, 202303011429, 202303012316]
+2023-03-02 22:13:23,383 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:27] - INFO: new version : 202303012316
+2023-03-02 22:13:23,383 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:33] - INFO: local version list : ['202302212315', '202302222315', '202302272313', '202302282315', '202303011429', '202303012316']
+2023-03-02 22:13:23,383 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:35] - INFO: local version num list : [202302212315, 202302222315, 202302272313, 202302282315, 202303011429, 202303012316]
+2023-03-02 22:13:23,383 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:37] - INFO: local new version: 202303012316
+2023-03-02 23:13:23,661 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:23] - INFO: version list : ['202302222315', '202302232317', '202302262312', '202302272313', '202302282315', '202303011429', '202303012316']
+2023-03-02 23:13:23,661 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:25] - INFO: version num list : [202302222315, 202302232317, 202302262312, 202302272313, 202302282315, 202303011429, 202303012316]
+2023-03-02 23:13:23,661 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:27] - INFO: new version : 202303012316
+2023-03-02 23:13:23,661 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:33] - INFO: local version list : ['202302212315', '202302222315', '202302272313', '202302282315', '202303011429', '202303012316']
+2023-03-02 23:13:23,661 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:35] - INFO: local version num list : [202302212315, 202302222315, 202302272313, 202302282315, 202303011429, 202303012316]
+2023-03-02 23:13:23,661 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:37] - INFO: local new version: 202303012316
+2023-03-03 00:13:23,977 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:23] - INFO: version list : ['202302222315', '202302232317', '202302262312', '202302272313', '202302282315', '202303011429', '202303012316']
+2023-03-03 00:13:23,977 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:25] - INFO: version num list : [202302222315, 202302232317, 202302262312, 202302272313, 202302282315, 202303011429, 202303012316]
+2023-03-03 00:13:23,977 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:27] - INFO: new version : 202303012316
+2023-03-03 00:13:23,977 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:33] - INFO: local version list : ['202302212315', '202302222315', '202302272313', '202302282315', '202303011429', '202303012316']
+2023-03-03 00:13:23,977 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:35] - INFO: local version num list : [202302212315, 202302222315, 202302272313, 202302282315, 202303011429, 202303012316]
+2023-03-03 00:13:23,977 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:37] - INFO: local new version: 202303012316
+2023-03-03 01:13:24,354 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:23] - INFO: version list : ['202302222315', '202302232317', '202302262312', '202302272313', '202302282315', '202303011429', '202303012316']
+2023-03-03 01:13:24,354 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:25] - INFO: version num list : [202302222315, 202302232317, 202302262312, 202302272313, 202302282315, 202303011429, 202303012316]
+2023-03-03 01:13:24,354 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:27] - INFO: new version : 202303012316
+2023-03-03 01:13:24,354 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:33] - INFO: local version list : ['202302212315', '202302222315', '202302272313', '202302282315', '202303011429', '202303012316']
+2023-03-03 01:13:24,354 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:35] - INFO: local version num list : [202302212315, 202302222315, 202302272313, 202302282315, 202303011429, 202303012316]
+2023-03-03 01:13:24,354 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:37] - INFO: local new version: 202303012316
+2023-03-03 02:13:24,707 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:23] - INFO: version list : ['202302222315', '202302232317', '202302262312', '202302272313', '202302282315', '202303011429', '202303012316']
+2023-03-03 02:13:24,707 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:25] - INFO: version num list : [202302222315, 202302232317, 202302262312, 202302272313, 202302282315, 202303011429, 202303012316]
+2023-03-03 02:13:24,707 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:27] - INFO: new version : 202303012316
+2023-03-03 02:13:24,707 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:33] - INFO: local version list : ['202302212315', '202302222315', '202302272313', '202302282315', '202303011429', '202303012316']
+2023-03-03 02:13:24,707 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:35] - INFO: local version num list : [202302212315, 202302222315, 202302272313, 202302282315, 202303011429, 202303012316]
+2023-03-03 02:13:24,707 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:37] - INFO: local new version: 202303012316
+2023-03-03 03:13:25,040 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:23] - INFO: version list : ['202302222315', '202302232317', '202302262312', '202302272313', '202302282315', '202303011429', '202303012316']
+2023-03-03 03:13:25,040 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:25] - INFO: version num list : [202302222315, 202302232317, 202302262312, 202302272313, 202302282315, 202303011429, 202303012316]
+2023-03-03 03:13:25,040 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:27] - INFO: new version : 202303012316
+2023-03-03 03:13:25,040 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:33] - INFO: local version list : ['202302212315', '202302222315', '202302272313', '202302282315', '202303011429', '202303012316']
+2023-03-03 03:13:25,040 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:35] - INFO: local version num list : [202302212315, 202302222315, 202302272313, 202302282315, 202303011429, 202303012316]
+2023-03-03 03:13:25,040 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:37] - INFO: local new version: 202303012316
+2023-03-03 04:13:25,362 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:23] - INFO: version list : ['202302222315', '202302232317', '202302262312', '202302272313', '202302282315', '202303011429', '202303012316']
+2023-03-03 04:13:25,362 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:25] - INFO: version num list : [202302222315, 202302232317, 202302262312, 202302272313, 202302282315, 202303011429, 202303012316]
+2023-03-03 04:13:25,362 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:27] - INFO: new version : 202303012316
+2023-03-03 04:13:25,362 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:33] - INFO: local version list : ['202302212315', '202302222315', '202302272313', '202302282315', '202303011429', '202303012316']
+2023-03-03 04:13:25,362 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:35] - INFO: local version num list : [202302212315, 202302222315, 202302272313, 202302282315, 202303011429, 202303012316]
+2023-03-03 04:13:25,362 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:37] - INFO: local new version: 202303012316
+2023-03-03 05:13:25,676 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:23] - INFO: version list : ['202302222315', '202302232317', '202302262312', '202302272313', '202302282315', '202303011429', '202303012316']
+2023-03-03 05:13:25,676 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:25] - INFO: version num list : [202302222315, 202302232317, 202302262312, 202302272313, 202302282315, 202303011429, 202303012316]
+2023-03-03 05:13:25,676 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:27] - INFO: new version : 202303012316
+2023-03-03 05:13:25,676 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:33] - INFO: local version list : ['202302212315', '202302222315', '202302272313', '202302282315', '202303011429', '202303012316']
+2023-03-03 05:13:25,676 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:35] - INFO: local version num list : [202302212315, 202302222315, 202302272313, 202302282315, 202303011429, 202303012316]
+2023-03-03 05:13:25,676 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:37] - INFO: local new version: 202303012316
+2023-03-03 06:13:25,987 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:23] - INFO: version list : ['202302222315', '202302232317', '202302262312', '202302272313', '202302282315', '202303011429', '202303012316']
+2023-03-03 06:13:25,987 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:25] - INFO: version num list : [202302222315, 202302232317, 202302262312, 202302272313, 202302282315, 202303011429, 202303012316]
+2023-03-03 06:13:25,987 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:27] - INFO: new version : 202303012316
+2023-03-03 06:13:25,987 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:33] - INFO: local version list : ['202302212315', '202302222315', '202302272313', '202302282315', '202303011429', '202303012316']
+2023-03-03 06:13:25,987 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:35] - INFO: local version num list : [202302212315, 202302222315, 202302272313, 202302282315, 202303011429, 202303012316]
+2023-03-03 06:13:25,987 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:37] - INFO: local new version: 202303012316
+2023-03-03 07:13:26,294 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:23] - INFO: version list : ['202302222315', '202302232317', '202302262312', '202302272313', '202302282315', '202303011429', '202303012316']
+2023-03-03 07:13:26,294 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:25] - INFO: version num list : [202302222315, 202302232317, 202302262312, 202302272313, 202302282315, 202303011429, 202303012316]
+2023-03-03 07:13:26,294 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:27] - INFO: new version : 202303012316
+2023-03-03 07:13:26,294 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:33] - INFO: local version list : ['202302212315', '202302222315', '202302272313', '202302282315', '202303011429', '202303012316']
+2023-03-03 07:13:26,294 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:35] - INFO: local version num list : [202302212315, 202302222315, 202302272313, 202302282315, 202303011429, 202303012316]
+2023-03-03 07:13:26,294 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:37] - INFO: local new version: 202303012316
+2023-03-03 08:13:26,600 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:23] - INFO: version list : ['202302222315', '202302232317', '202302262312', '202302272313', '202302282315', '202303011429', '202303012316']
+2023-03-03 08:13:26,600 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:25] - INFO: version num list : [202302222315, 202302232317, 202302262312, 202302272313, 202302282315, 202303011429, 202303012316]
+2023-03-03 08:13:26,600 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:27] - INFO: new version : 202303012316
+2023-03-03 08:13:26,600 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:33] - INFO: local version list : ['202302212315', '202302222315', '202302272313', '202302282315', '202303011429', '202303012316']
+2023-03-03 08:13:26,600 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:35] - INFO: local version num list : [202302212315, 202302222315, 202302272313, 202302282315, 202303011429, 202303012316]
+2023-03-03 08:13:26,600 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:37] - INFO: local new version: 202303012316
+2023-03-03 09:13:26,911 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:23] - INFO: version list : ['202302222315', '202302232317', '202302262312', '202302272313', '202302282315', '202303011429', '202303012316', '202303022316']
+2023-03-03 09:13:26,911 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:25] - INFO: version num list : [202302222315, 202302232317, 202302262312, 202302272313, 202302282315, 202303011429, 202303012316, 202303022316]
+2023-03-03 09:13:26,911 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:27] - INFO: new version : 202303022316
+2023-03-03 09:13:26,911 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:33] - INFO: local version list : ['202302212315', '202302222315', '202302272313', '202302282315', '202303011429', '202303012316']
+2023-03-03 09:13:26,911 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:35] - INFO: local version num list : [202302212315, 202302222315, 202302272313, 202302282315, 202303011429, 202303012316]
+2023-03-03 09:13:26,911 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:37] - INFO: local new version: 202303012316
+2023-03-03 09:13:26,911 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:43] - INFO: local path : D:\version\202303022316
+2023-03-03 10:13:28,336 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:23] - INFO: version list : ['202302222315', '202302232317', '202302262312', '202302272313', '202302282315', '202303011429', '202303012316', '202303022316']
+2023-03-03 10:13:28,336 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:25] - INFO: version num list : [202302222315, 202302232317, 202302262312, 202302272313, 202302282315, 202303011429, 202303012316, 202303022316]
+2023-03-03 10:13:28,336 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:27] - INFO: new version : 202303022316
+2023-03-03 10:13:28,336 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:33] - INFO: local version list : ['202302212315', '202302222315', '202302272313', '202302282315', '202303011429', '202303012316', '202303022316']
+2023-03-03 10:13:28,336 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:35] - INFO: local version num list : [202302212315, 202302222315, 202302272313, 202302282315, 202303011429, 202303012316, 202303022316]
+2023-03-03 10:13:28,336 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:37] - INFO: local new version: 202303022316
+2023-03-03 11:13:28,958 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:23] - INFO: version list : ['202302222315', '202302232317', '202302262312', '202302272313', '202302282315', '202303011429', '202303012316', '202303022316']
+2023-03-03 11:13:28,958 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:25] - INFO: version num list : [202302222315, 202302232317, 202302262312, 202302272313, 202302282315, 202303011429, 202303012316, 202303022316]
+2023-03-03 11:13:28,958 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:27] - INFO: new version : 202303022316
+2023-03-03 11:13:28,958 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:33] - INFO: local version list : ['202302212315', '202302222315', '202302272313', '202302282315', '202303011429', '202303012316', '202303022316']
+2023-03-03 11:13:28,958 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:35] - INFO: local version num list : [202302212315, 202302222315, 202302272313, 202302282315, 202303011429, 202303012316, 202303022316]
+2023-03-03 11:13:28,958 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:37] - INFO: local new version: 202303022316
+2023-03-03 12:13:29,655 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:23] - INFO: version list : ['202302222315', '202302232317', '202302262312', '202302272313', '202302282315', '202303011429', '202303012316', '202303022316']
+2023-03-03 12:13:29,655 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:25] - INFO: version num list : [202302222315, 202302232317, 202302262312, 202302272313, 202302282315, 202303011429, 202303012316, 202303022316]
+2023-03-03 12:13:29,655 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:27] - INFO: new version : 202303022316
+2023-03-03 12:13:29,655 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:33] - INFO: local version list : ['202302212315', '202302222315', '202302272313', '202302282315', '202303011429', '202303012316', '202303022316']
+2023-03-03 12:13:29,655 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:35] - INFO: local version num list : [202302212315, 202302222315, 202302272313, 202302282315, 202303011429, 202303012316, 202303022316]
+2023-03-03 12:13:29,655 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:37] - INFO: local new version: 202303022316
+2023-03-03 13:13:30,180 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:23] - INFO: version list : ['202302222315', '202302232317', '202302262312', '202302272313', '202302282315', '202303011429', '202303012316', '202303022316']
+2023-03-03 13:13:30,180 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:25] - INFO: version num list : [202302222315, 202302232317, 202302262312, 202302272313, 202302282315, 202303011429, 202303012316, 202303022316]
+2023-03-03 13:13:30,180 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:27] - INFO: new version : 202303022316
+2023-03-03 13:13:30,180 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:33] - INFO: local version list : ['202302212315', '202302222315', '202302272313', '202302282315', '202303011429', '202303012316', '202303022316']
+2023-03-03 13:13:30,180 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:35] - INFO: local version num list : [202302212315, 202302222315, 202302272313, 202302282315, 202303011429, 202303012316, 202303022316]
+2023-03-03 13:13:30,180 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:37] - INFO: local new version: 202303022316
+2023-03-03 14:13:30,902 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:23] - INFO: version list : ['202302222315', '202302232317', '202302262312', '202302272313', '202302282315', '202303011429', '202303012316', '202303022316', '2023030223161', '2023030223162', '2023030223163']
+2023-03-03 14:13:30,902 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:25] - INFO: version num list : [202302222315, 202302232317, 202302262312, 202302272313, 202302282315, 202303011429, 202303012316, 202303022316, 2023030223161, 2023030223162, 2023030223163]
+2023-03-03 14:13:30,902 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:27] - INFO: new version : 2023030223163
+2023-03-03 14:13:30,902 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:33] - INFO: local version list : ['202302212315', '202302222315', '202302272313', '202302282315', '202303011429', '202303012316', '202303022316']
+2023-03-03 14:13:30,902 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:35] - INFO: local version num list : [202302212315, 202302222315, 202302272313, 202302282315, 202303011429, 202303012316, 202303022316]
+2023-03-03 14:13:30,902 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:37] - INFO: local new version: 202303022316
+2023-03-03 14:13:30,934 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:43] - INFO: local path : D:\version\2023030223163
+2023-03-03 15:13:35,917 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:23] - INFO: version list : ['202302222315', '202302232317', '202302262312', '202302272313', '202302282315', '202303011429', '202303012316', '202303022316', '2023030223161', '2023030223162', '2023030223163']
+2023-03-03 15:13:35,917 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:25] - INFO: version num list : [202302222315, 202302232317, 202302262312, 202302272313, 202302282315, 202303011429, 202303012316, 202303022316, 2023030223161, 2023030223162, 2023030223163]
+2023-03-03 15:13:35,917 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:27] - INFO: new version : 2023030223163
+2023-03-03 15:13:35,917 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:33] - INFO: local version list : ['202302212315', '202302222315', '202302272313', '202302282315', '202303011429', '202303012316', '202303022316', '2023030223163']
+2023-03-03 15:13:35,917 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:35] - INFO: local version num list : [202302212315, 202302222315, 202302272313, 202302282315, 202303011429, 202303012316, 202303022316, 2023030223163]
+2023-03-03 15:13:35,917 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:37] - INFO: local new version: 2023030223163
+2023-03-03 16:13:36,336 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:23] - INFO: version list : ['202302222315', '202302232317', '202302262312', '202302272313', '202302282315', '202303011429', '202303012316', '202303022316', '2023030223161', '2023030223162', '2023030223163', 'test']
+2023-03-06 10:35:14,566 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:23] - INFO: version list : ['202302222315', '202302232317', '202302262312', '202302272313', '202302282315', '202303011429', '202303012316', '202303022316', '2023030223161', '2023030223162', '202303052312', 'test']
+2023-03-06 10:36:18,854 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:23] - INFO: version list : ['202302222315', '202302232317', '202302262312', '202302272313', '202302282315', '202303011429', '202303012316', '202303022316', '2023030223161', '2023030223162', '202303052312', 'test']
+2023-03-07 11:05:50,130 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:52] - INFO: version list : ['drwxr-xr-x 1 ftp ftp              0 Mar 07 09:42 202303062316']
+2023-03-07 11:06:57,439 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:53] - INFO: version list : ['202303062316']
+2023-03-07 11:06:57,440 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:55] - INFO: version num list : [202303062316]
+2023-03-07 11:06:57,440 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:57] - INFO: new version : 202303062316
+2023-03-07 11:07:02,593 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:53] - INFO: version list : ['202303062316']
+2023-03-07 11:07:02,593 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:55] - INFO: version num list : [202303062316]
+2023-03-07 11:07:02,593 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:57] - INFO: new version : 202303062316
+2023-03-07 11:08:07,786 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:53] - INFO: version list : ['202303062316']
+2023-03-07 11:08:07,786 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:55] - INFO: version num list : [202303062316]
+2023-03-07 11:08:07,786 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:57] - INFO: new version : 202303062316
+2023-03-07 11:08:07,789 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:98] - INFO: local path : D:\version\202303062316
+2023-03-07 11:21:21,511 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:53] - INFO: version list : ['202303062316']
+2023-03-07 11:21:21,511 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:55] - INFO: version num list : [202303062316]
+2023-03-07 11:21:21,511 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:57] - INFO: new version : 202303062316
+2023-03-07 11:21:34,434 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:53] - INFO: version list : ['202303062316']
+2023-03-07 11:21:34,434 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:55] - INFO: version num list : [202303062316]
+2023-03-07 11:21:34,435 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:57] - INFO: new version : 202303062316
+2023-03-07 11:21:34,435 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:98] - INFO: local path : D:\version\202303062316
+2023-03-07 11:24:51,303 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:53] - INFO: version list : ['202303062316']
+2023-03-07 11:24:51,304 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:55] - INFO: version num list : [202303062316]
+2023-03-07 11:24:51,304 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:57] - INFO: new version : 202303062316
+2023-03-07 11:24:51,318 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:98] - INFO: local path : D:\version\202303062316
+2023-03-07 11:25:33,338 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:53] - INFO: version list : ['202303062316']
+2023-03-07 11:25:33,338 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:55] - INFO: version num list : [202303062316]
+2023-03-07 11:25:33,338 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:57] - INFO: new version : 202303062316
+2023-03-07 11:25:33,339 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:98] - INFO: local path : D:\version\202303062316
+2023-03-07 11:27:14,228 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:55] - INFO: version list : ['202303062316']
+2023-03-07 11:27:14,229 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:57] - INFO: version num list : [202303062316]
+2023-03-07 11:27:14,229 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:59] - INFO: new version : 202303062316
+2023-03-07 11:27:14,285 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:100] - INFO: local path : D:\version\202303062316
+2023-03-07 11:27:14,285 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:37] - INFO: C:\Program Files (x86)\WinSCP\WinSCP.com  /command "open ftp://rd-ys:h3c%40rd-ys@10.121.207.120/" "get ""/Data-Out/m28573/version_list/202303062316"" ""D:\version\202303062316""" "exit"
+2023-03-07 11:28:27,989 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:55] - INFO: version list : ['202303062316']
+2023-03-07 11:28:27,989 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:57] - INFO: version num list : [202303062316]
+2023-03-07 11:28:27,989 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:59] - INFO: new version : 202303062316
+2023-03-07 11:28:27,990 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:100] - INFO: local path : D:\version\202303062316
+2023-03-07 11:28:27,990 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:37] - INFO: D:\WinSCP\WinSCP.com  /command "open ftp://rd-ys:h3c%40rd-ys@10.121.207.120/" "get ""/Data-Out/m28573/version_list/202303062316"" ""D:\version\202303062316""" "exit"
+2023-03-08 18:49:11,175 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:55] - INFO: version list : ['202303062316', '202303072316']
+2023-03-08 18:49:11,175 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:57] - INFO: version num list : [202303062316, 202303072316]
+2023-03-08 18:49:11,175 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:59] - INFO: new version : 202303072316
+2023-03-08 18:49:11,176 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:100] - INFO: local path : D:\version\202303072316
+2023-03-08 18:49:11,176 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:37] - INFO: D:\WinSCP\WinSCP.com  /command "open ftp://rd-ys:h3c%40rd-ys@10.121.207.120/" "get ""/Data-Out/m28573/version_list/202303072316"" ""D:\version\202303072316""" "exit"
+2023-03-08 20:02:19,560 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:55] - INFO: version list : ['202303062316', '202303072316', '202303062316', '202303072316']
+2023-03-08 20:02:19,560 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:57] - INFO: version num list : [202303062316, 202303072316, 202303062316, 202303072316]
+2023-03-08 20:02:19,560 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:59] - INFO: new version : 202303072316
+2023-03-08 21:02:19,847 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:55] - INFO: version list : ['202303062316', '202303072316', '202303062316', '202303072316', '202303062316', '202303072316']
+2023-03-08 21:02:19,848 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:57] - INFO: version num list : [202303062316, 202303072316, 202303062316, 202303072316, 202303062316, 202303072316]
+2023-03-08 21:02:19,848 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:59] - INFO: new version : 202303072316
+2023-03-08 22:02:20,268 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:55] - INFO: version list : ['202303062316', '202303072316', '202303062316', '202303072316', '202303062316', '202303072316', '202303062316', '202303072316']
+2023-03-08 22:02:20,268 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:57] - INFO: version num list : [202303062316, 202303072316, 202303062316, 202303072316, 202303062316, 202303072316, 202303062316, 202303072316]
+2023-03-08 22:02:20,268 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:59] - INFO: new version : 202303072316
+2023-03-08 23:02:20,688 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:55] - INFO: version list : ['202303062316', '202303072316', '202303062316', '202303072316', '202303062316', '202303072316', '202303062316', '202303072316', '202303062316', '202303072316']
+2023-03-08 23:02:20,689 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:57] - INFO: version num list : [202303062316, 202303072316, 202303062316, 202303072316, 202303062316, 202303072316, 202303062316, 202303072316, 202303062316, 202303072316]
+2023-03-08 23:02:20,689 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:59] - INFO: new version : 202303072316
+2023-03-09 00:02:20,958 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:55] - INFO: version list : ['202303062316', '202303072316', '202303062316', '202303072316', '202303062316', '202303072316', '202303062316', '202303072316', '202303062316', '202303072316', '202303062316', '202303072316']
+2023-03-09 00:02:20,958 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:57] - INFO: version num list : [202303062316, 202303072316, 202303062316, 202303072316, 202303062316, 202303072316, 202303062316, 202303072316, 202303062316, 202303072316, 202303062316, 202303072316]
+2023-03-09 00:02:20,958 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:59] - INFO: new version : 202303072316
+2023-03-09 01:02:21,229 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:55] - INFO: version list : ['202303062316', '202303072316', '202303062316', '202303072316', '202303062316', '202303072316', '202303062316', '202303072316', '202303062316', '202303072316', '202303062316', '202303072316', '202303062316', '202303072316']
+2023-03-09 01:02:21,230 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:57] - INFO: version num list : [202303062316, 202303072316, 202303062316, 202303072316, 202303062316, 202303072316, 202303062316, 202303072316, 202303062316, 202303072316, 202303062316, 202303072316, 202303062316, 202303072316]
+2023-03-09 01:02:21,230 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:59] - INFO: new version : 202303072316
+2023-03-09 02:02:21,561 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:55] - INFO: version list : ['202303062316', '202303072316', '202303062316', '202303072316', '202303062316', '202303072316', '202303062316', '202303072316', '202303062316', '202303072316', '202303062316', '202303072316', '202303062316', '202303072316', '202303062316', '202303072316']
+2023-03-09 02:02:21,561 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:57] - INFO: version num list : [202303062316, 202303072316, 202303062316, 202303072316, 202303062316, 202303072316, 202303062316, 202303072316, 202303062316, 202303072316, 202303062316, 202303072316, 202303062316, 202303072316, 202303062316, 202303072316]
+2023-03-09 02:02:21,561 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:59] - INFO: new version : 202303072316
+2023-03-09 03:02:21,883 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:55] - INFO: version list : ['202303062316', '202303072316', '202303062316', '202303072316', '202303062316', '202303072316', '202303062316', '202303072316', '202303062316', '202303072316', '202303062316', '202303072316', '202303062316', '202303072316', '202303062316', '202303072316', '202303062316', '202303072316']
+2023-03-09 03:02:21,883 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:57] - INFO: version num list : [202303062316, 202303072316, 202303062316, 202303072316, 202303062316, 202303072316, 202303062316, 202303072316, 202303062316, 202303072316, 202303062316, 202303072316, 202303062316, 202303072316, 202303062316, 202303072316, 202303062316, 202303072316]
+2023-03-09 03:02:21,883 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:59] - INFO: new version : 202303072316
+2023-03-09 04:02:22,228 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:55] - INFO: version list : ['202303062316', '202303072316', '202303062316', '202303072316', '202303062316', '202303072316', '202303062316', '202303072316', '202303062316', '202303072316', '202303062316', '202303072316', '202303062316', '202303072316', '202303062316', '202303072316', '202303062316', '202303072316', '202303062316', '202303072316']
+2023-03-09 04:02:22,228 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:57] - INFO: version num list : [202303062316, 202303072316, 202303062316, 202303072316, 202303062316, 202303072316, 202303062316, 202303072316, 202303062316, 202303072316, 202303062316, 202303072316, 202303062316, 202303072316, 202303062316, 202303072316, 202303062316, 202303072316, 202303062316, 202303072316]
+2023-03-09 04:02:22,228 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:59] - INFO: new version : 202303072316
+2023-03-09 05:02:22,559 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:55] - INFO: version list : ['202303062316', '202303072316', '202303062316', '202303072316', '202303062316', '202303072316', '202303062316', '202303072316', '202303062316', '202303072316', '202303062316', '202303072316', '202303062316', '202303072316', '202303062316', '202303072316', '202303062316', '202303072316', '202303062316', '202303072316', '202303062316', '202303072316']
+2023-03-09 05:02:22,559 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:57] - INFO: version num list : [202303062316, 202303072316, 202303062316, 202303072316, 202303062316, 202303072316, 202303062316, 202303072316, 202303062316, 202303072316, 202303062316, 202303072316, 202303062316, 202303072316, 202303062316, 202303072316, 202303062316, 202303072316, 202303062316, 202303072316, 202303062316, 202303072316]
+2023-03-09 05:02:22,559 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:59] - INFO: new version : 202303072316
+2023-03-09 06:02:22,879 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:55] - INFO: version list : ['202303062316', '202303072316', '202303062316', '202303072316', '202303062316', '202303072316', '202303062316', '202303072316', '202303062316', '202303072316', '202303062316', '202303072316', '202303062316', '202303072316', '202303062316', '202303072316', '202303062316', '202303072316', '202303062316', '202303072316', '202303062316', '202303072316', '202303062316', '202303072316']
+2023-03-09 06:02:22,880 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:57] - INFO: version num list : [202303062316, 202303072316, 202303062316, 202303072316, 202303062316, 202303072316, 202303062316, 202303072316, 202303062316, 202303072316, 202303062316, 202303072316, 202303062316, 202303072316, 202303062316, 202303072316, 202303062316, 202303072316, 202303062316, 202303072316, 202303062316, 202303072316, 202303062316, 202303072316]
+2023-03-09 06:02:22,880 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:59] - INFO: new version : 202303072316
+2023-03-09 07:02:23,272 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:55] - INFO: version list : ['202303062316', '202303072316', '202303062316', '202303072316', '202303062316', '202303072316', '202303062316', '202303072316', '202303062316', '202303072316', '202303062316', '202303072316', '202303062316', '202303072316', '202303062316', '202303072316', '202303062316', '202303072316', '202303062316', '202303072316', '202303062316', '202303072316', '202303062316', '202303072316', '202303062316', '202303072316']
+2023-03-09 07:02:23,272 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:57] - INFO: version num list : [202303062316, 202303072316, 202303062316, 202303072316, 202303062316, 202303072316, 202303062316, 202303072316, 202303062316, 202303072316, 202303062316, 202303072316, 202303062316, 202303072316, 202303062316, 202303072316, 202303062316, 202303072316, 202303062316, 202303072316, 202303062316, 202303072316, 202303062316, 202303072316, 202303062316, 202303072316]
+2023-03-09 07:02:23,272 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:59] - INFO: new version : 202303072316
+2023-03-09 08:02:23,586 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:55] - INFO: version list : ['202303062316', '202303072316', '202303062316', '202303072316', '202303062316', '202303072316', '202303062316', '202303072316', '202303062316', '202303072316', '202303062316', '202303072316', '202303062316', '202303072316', '202303062316', '202303072316', '202303062316', '202303072316', '202303062316', '202303072316', '202303062316', '202303072316', '202303062316', '202303072316', '202303062316', '202303072316', '202303062316', '202303072316']
+2023-03-09 08:02:23,586 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:57] - INFO: version num list : [202303062316, 202303072316, 202303062316, 202303072316, 202303062316, 202303072316, 202303062316, 202303072316, 202303062316, 202303072316, 202303062316, 202303072316, 202303062316, 202303072316, 202303062316, 202303072316, 202303062316, 202303072316, 202303062316, 202303072316, 202303062316, 202303072316, 202303062316, 202303072316, 202303062316, 202303072316, 202303062316, 202303072316]
+2023-03-09 08:02:23,586 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:59] - INFO: new version : 202303072316
+2023-03-09 09:02:23,899 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:55] - INFO: version list : ['202303062316', '202303072316', '202303062316', '202303072316', '202303062316', '202303072316', '202303062316', '202303072316', '202303062316', '202303072316', '202303062316', '202303072316', '202303062316', '202303072316', '202303062316', '202303072316', '202303062316', '202303072316', '202303062316', '202303072316', '202303062316', '202303072316', '202303062316', '202303072316', '202303062316', '202303072316', '202303062316', '202303072316', '202303062316', '202303072316']
+2023-03-09 09:02:23,899 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:57] - INFO: version num list : [202303062316, 202303072316, 202303062316, 202303072316, 202303062316, 202303072316, 202303062316, 202303072316, 202303062316, 202303072316, 202303062316, 202303072316, 202303062316, 202303072316, 202303062316, 202303072316, 202303062316, 202303072316, 202303062316, 202303072316, 202303062316, 202303072316, 202303062316, 202303072316, 202303062316, 202303072316, 202303062316, 202303072316, 202303062316, 202303072316]
+2023-03-09 09:02:23,899 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:59] - INFO: new version : 202303072316
+2023-03-09 10:02:24,428 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:55] - INFO: version list : ['202303062316', '202303072316', '202303062316', '202303072316', '202303062316', '202303072316', '202303062316', '202303072316', '202303062316', '202303072316', '202303062316', '202303072316', '202303062316', '202303072316', '202303062316', '202303072316', '202303062316', '202303072316', '202303062316', '202303072316', '202303062316', '202303072316', '202303062316', '202303072316', '202303062316', '202303072316', '202303062316', '202303072316', '202303062316', '202303072316', '202303062316', '202303072316']
+2023-03-09 10:02:24,428 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:57] - INFO: version num list : [202303062316, 202303072316, 202303062316, 202303072316, 202303062316, 202303072316, 202303062316, 202303072316, 202303062316, 202303072316, 202303062316, 202303072316, 202303062316, 202303072316, 202303062316, 202303072316, 202303062316, 202303072316, 202303062316, 202303072316, 202303062316, 202303072316, 202303062316, 202303072316, 202303062316, 202303072316, 202303062316, 202303072316, 202303062316, 202303072316, 202303062316, 202303072316]
+2023-03-09 10:02:24,428 - C:\Users\m28573\PycharmProjects\mym_test\ncs_ftp_download.py[line:59] - INFO: new version : 202303072316
